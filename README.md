@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+## And Hello World
+
+🤔i'm japanese student. i like sushi and HTML.🤔 
+<img width="100%" height="172" alt="image" src="https://github.com/user-attachments/assets/5c3527c5-599f-4f80-bbc9-aa2b3a56575d" />
+I'm currently 
 
 <!--
 **kouta1014345-a11y/kouta1014345-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
